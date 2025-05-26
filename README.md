@@ -39,7 +39,7 @@ Peer-to-peer lending platforms enable unsecured personal loans and offer investo
 
 ## Dataset
 
-- **Source**: [LendingClub Loan Data (Kaggle)](https://www.kaggle.com/wendykan/lending-club-loan-data)  
+- **Source**: [LendingClub Loan Data (Kaggle)]
 - **Records**: 42,000+ loans, 56 fields (demographics, credit history, loan terms, outcomes)  
 - **Target**: Loan status (“Fully Paid” vs. “Charged Off”)  
 
